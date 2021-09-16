@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabrielhidd
 - 👀 I’m interested in data science for finance
-- 🌱 I’m currently learning Python, SQL and Machine Learning
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gabrielhidd@yahoo.com.br
 
